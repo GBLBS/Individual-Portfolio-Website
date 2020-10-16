@@ -8,7 +8,7 @@ draft: false
 image: Plan.png
 keywords: ""
 slug: aliquam
-title: Where I grew up
+title: About me
 ---
 
-Marly-Le-Roi, 30 min close to both Paris and the Countryside
+I grew up in Marly-Le-Roi, 30 min close to both Paris and the Countryside. 
