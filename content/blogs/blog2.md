@@ -3,8 +3,9 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Analysis: Relationship between salary and gender
+description: Relationship between salary and gender
 draft: false
+image: omega.png
 keywords: ""
 slug: magna
 title: Omega Case Study
