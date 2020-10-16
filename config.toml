@@ -95,7 +95,7 @@ disqusShortname = ""
       subtitle = "Where I'm From"
       image = "GBB.jpg"
       url = "blogs/aliquam"
-
+  
     [[params.tiles.showcase]]
       title = "Exploratory Data Analysis"
       subtitle = "Analyzing the weight of participants"
@@ -133,6 +133,8 @@ disqusShortname = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     # To add more blogs just copy and paste the code.
+
+
 
   # Section Type Two
   [params.two]
