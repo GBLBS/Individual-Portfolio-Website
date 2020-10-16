@@ -104,7 +104,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Relationship between salary and gender"
-      subtitle = "Using data from the omega package"
+      subtitle = "Omega Case Study"
       image = "HF.jpg"
       url = "blogs/magna"
 
@@ -213,7 +213,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com/guillaumeborigite"
+      url= "https://www.linkedin.com/in/guillaumeborigite/"
       label = "LinkedIn"
 
    # [[params.footer.quicklinks]]
