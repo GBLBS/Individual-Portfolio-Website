@@ -11,4 +11,4 @@ slug: aliquam
 title: About me
 ---
 
-I grew up in Marly-Le-Roi, 30 min close to both Paris and the Yvelines countryside. 
+I grew up in Marly-Le-Roi, France, 30 min close to both Paris and the Yvelines countryside. 

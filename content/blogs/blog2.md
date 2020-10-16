@@ -3,8 +3,9 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Lorem Etiam Nullam
+description: Analysis: Relationship between salary and gender
 draft: false
+image: O.png
 keywords: ""
 slug: magna
 title: Omega Case Study
