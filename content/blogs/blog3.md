@@ -40,7 +40,7 @@ ggplot(yrbss_NA_removed, aes(x = weight)) +
 
 Then, we considered the possible relationship between a high schooler’s weight and their physical activity. 
 
-We created a new variable "physical_3plus", which will be "yes"" if they are physically active for at least 3 days a week, and "no otherwise.
+We created a new variable "physical_3plus", which will be "yes"" if they are physically active for at least 3 days a week, and "no"" otherwise.
 
 ```{r}
 yrbss <- yrbss %>% 
