@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http*s*://guillaume-borigite.netlify.app/"
+baseURL = "https://guillaume-borigite.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio website for Guillaume Borigite"
 theme = "forty"
